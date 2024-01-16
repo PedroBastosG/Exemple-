@@ -4,6 +4,6 @@ function alert() {
 
 function calcuteTime() {
     set_timeout(() => {
-        console.log('tempo: 3 segundos')
-    }, 3000)
+        console.log('tempo: 5 segundos')
+    }, 5000)
 }
